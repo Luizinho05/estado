@@ -5,7 +5,7 @@ function App() {
     <div className="container">
       <h1>Trabalhando com State e Ciclos de Vida</h1>
       <div>
-      <Contador  />
+      <Contador />
       </div>
     </div>
   );
